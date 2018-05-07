@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 # Week1
 ## 1. Review
 ### 1.1. Supervised Learning
@@ -76,7 +78,7 @@ Squared error function 이나 Mean squared error로 부르기도함
 ## 4. Linear Algebra
 
 ### 4.1. Matrices and Vectors
-$$\begin{bmatrix} a & b & c \newline d & e & f \newline g & h & i \newline j & k & l\end{bmatrix}$$
+$\begin{bmatrix} a & b & c \newline d & e & f \newline g & h & i \newline j & k & l\end{bmatrix}$
 위 행렬은 4개의 행과 3개의 열을 가진 4 x 3 행렬이다.
 A~ij~는 A행렬의 i번째 행 j번째 열의 값을 나타낸다.
 
@@ -86,5 +88,5 @@ v~i~는 i번째 백터의 i 번째 열 값을 나타낸다.
 일반 적은로 벡터는 1 부터 인덱싱 되지만 프로그래밍에서는 0부터 인덱싱된다.
 
 일반적으로 행렬은 대문자, 벡터는 소문자로 표현된다.
-$$\mathbb{R}$$ 은 실수 집합을 의미하며 $$\mathbb{R}$$^n^은 실수의 n차원 벡터를 의미한다.
+$\mathbb{R}$$ 은 실수 집합을 의미하며 $$\mathbb{R}$^n^은 실수의 n차원 벡터를 의미한다.
 
